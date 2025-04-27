@@ -1,7 +1,13 @@
-{
-    "student": {
+[
+    {
       "name": "YourStudentName",
-      "major": "YourStudentMajor"
+      "major": "YourStudentMajor",
+      "role": "student"
+    },
+    {
+      "name": "Huitaek Yun",
+      "major": "Mechanical Engineering",
+      "role": "instructor"
     }
-}
+]
   
