@@ -10,7 +10,7 @@ def htyun():
     print("I love programming.")
 def hanbin_jang():
     print("I am the grader of this homework")
-def minseo_jang():
+def jms5017():
     print("I am learning how to use github")
 ''' --------------------------------------------'''
 
@@ -23,5 +23,5 @@ for item in data:
     if item['name'] == 'Hanbin Jang':
         hanbin_jang()  
     if item['name'] == 'Minseo Jang':
-        minseo_jang()
+        jms5017()
     ''' --------------------------------------------'''
