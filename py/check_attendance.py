@@ -12,6 +12,8 @@ def hanbin_jang():
     print("I am the grader of this homework")
 def jms5017():
     print("I am learning how to use github")
+def hscotte978():
+    print("I learned how to use Linux for the first time in this class.")
 ''' --------------------------------------------'''
 
 for item in data:
@@ -24,4 +26,6 @@ for item in data:
         hanbin_jang()  
     if item['name'] == 'Minseo Jang':
         jms5017()
+    if item['name'] == 'Jeongil Hwang':
+        hscotte978()
     ''' --------------------------------------------'''
