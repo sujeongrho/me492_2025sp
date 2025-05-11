@@ -16,6 +16,8 @@ def hscotte978():
     print("I learned how to use Linux for the first time in this class.")
 def moonsj4244():
     print("I think Git is interesting!")
+def cvsdh01():
+    print("Git is amazing !")
 ''' --------------------------------------------'''
 
 for item in data:
@@ -32,4 +34,6 @@ for item in data:
         hscotte978()
     if item['name'] == 'Sunji Moon':
         moonsj4244()
+    if item['name'] == 'Donghyeok Shin':
+        cvsdh01()
     ''' --------------------------------------------'''
