@@ -1,7 +1,7 @@
 import json
 import os
 print(os.getcwd())
-with open('student_data.json', 'r',) as file:
+with open('./student_data.json', 'r',) as file:
     data = json.load(file)
 
 ''' --------------------------------------------'''
