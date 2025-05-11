@@ -15,7 +15,7 @@ def jms5017():
 def hscotte978():
     print("I learned how to use Linux for the first time in this class.")
 def moonsj4244():
-    print("Git is interesting!")
+    print("I think Git is interesting!")
 ''' --------------------------------------------'''
 
 for item in data:
