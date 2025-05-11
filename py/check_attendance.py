@@ -14,6 +14,8 @@ def jms5017():
     print("I am learning how to use github")
 def hscotte978():
     print("I learned how to use Linux for the first time in this class.")
+def moonsj4244():
+    print("I think Git is interesting!")
 ''' --------------------------------------------'''
 
 for item in data:
@@ -28,4 +30,6 @@ for item in data:
         jms5017()
     if item['name'] == 'Jeongil Hwang':
         hscotte978()
+    if item['name'] == 'Sunji Moon':
+        moonsj4244()
     ''' --------------------------------------------'''
