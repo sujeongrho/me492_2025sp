@@ -20,6 +20,8 @@ def cvsdh01():
     print("Git is amazing !")
 def abiezerjerom():
     print("This is my first time using Git")
+def shtnwjd05():
+    print("I'm sorry I'm late:(")
 ''' --------------------------------------------'''
 
 for item in data:
@@ -40,4 +42,6 @@ for item in data:
         cvsdh01()
     if item['name'] == 'Abiezer Jerom'
         abiezerjerom()
+    if item['name'] == 'Sujeong Rho'
+        shtnwjd05()
     ''' --------------------------------------------'''
