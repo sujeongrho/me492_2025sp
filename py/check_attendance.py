@@ -18,6 +18,8 @@ def moonsj4244():
     print("I think Git is interesting!")
 def cvsdh01():
     print("Git is amazing !")
+def abiezerjerom():
+    print("This is my first time using Git")
 ''' --------------------------------------------'''
 
 for item in data:
@@ -36,4 +38,6 @@ for item in data:
         moonsj4244()
     if item['name'] == 'Donghyeok Shin':
         cvsdh01()
+    if item['name'] == 'Abiezer Jerom'
+        abiezerjerom()
     ''' --------------------------------------------'''
