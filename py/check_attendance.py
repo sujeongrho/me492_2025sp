@@ -42,6 +42,6 @@ for item in data:
         cvsdh01()
     if item['name'] == 'Abiezer Jerom'
         abiezerjerom()
-    if item['name'] == 'Sujeong Rho'
+    if item['name'] == 'Sujeong Rho':
         shtnwjd05()
     ''' --------------------------------------------'''
